@@ -18,9 +18,9 @@
 pnpm install
 pnpm dev
 ```
-1. Open the extension management page: [edge://extensions](edge://extensions/)
+1. Open the extension management page: [edge://extensions](#)
 2. Open `Developer Mode`
-3. Click `Load Unzipped Extension`, and select the `dist` directory in this project
+3. Click `Load Unpacked`, and select the `dist` directory in this project
 
 *Support for hot reloading: Modified source code, auto-recompile and browser auto-refresh!*
 
